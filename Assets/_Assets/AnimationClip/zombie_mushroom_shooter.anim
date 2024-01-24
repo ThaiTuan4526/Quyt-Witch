@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: zombie_mushroom_shooter
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 12d35db8ea179d34fb3802325d1bd644, type: 2}
+    - time: 0.06666667
+      value: {fileID: 21300000, guid: d21eeb5bb7cc05f4c9d4b66f7e488939, type: 2}
+    - time: 0.13333334
+      value: {fileID: 21300000, guid: ab5ad18c2b1659c468b59248470757db, type: 2}
+    - time: 0.2
+      value: {fileID: 21300000, guid: 07ce3ee0ea8917945bdee4c80bf56448, type: 2}
+    - time: 0.26666668
+      value: {fileID: 21300000, guid: 085b0e66eeabc164fb26d87fbb117bbe, type: 2}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: c219c1d3f3da19f48b99c4532ba8715e, type: 2}
+    - time: 0.4
+      value: {fileID: 21300000, guid: a73b3f7360247e148acc96d71d3dcc47, type: 2}
+    - time: 0.46666667
+      value: {fileID: 21300000, guid: f2ebfd325f21f744d92507f49d6a73a1, type: 2}
+    - time: 0.53333336
+      value: {fileID: 21300000, guid: a8530d1811afee94a8f6c37baaae5299, type: 2}
+    - time: 0.6
+      value: {fileID: 21300000, guid: a8c12e5f12842ca4ab862c36500b02fc, type: 2}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: c9a5500654f153648af6f8a5d3000dc7, type: 2}
+    - time: 0.73333335
+      value: {fileID: 21300000, guid: 5e4b27983e35d02418d72f454ff21b75, type: 2}
+    - time: 0.8
+      value: {fileID: 21300000, guid: 67b7906ab85d7a04086dcae8022a0568, type: 2}
+    - time: 0.8666667
+      value: {fileID: 21300000, guid: 03724eb0f8c17cd40a20cbd94d36afdc, type: 2}
+    - time: 0.93333334
+      value: {fileID: 21300000, guid: 6674bddfc8423844494ff9bc81fd91fd, type: 2}
+    attribute: m_Sprite
+    path:
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 12d35db8ea179d34fb3802325d1bd644, type: 2}
+    - {fileID: 21300000, guid: d21eeb5bb7cc05f4c9d4b66f7e488939, type: 2}
+    - {fileID: 21300000, guid: ab5ad18c2b1659c468b59248470757db, type: 2}
+    - {fileID: 21300000, guid: 07ce3ee0ea8917945bdee4c80bf56448, type: 2}
+    - {fileID: 21300000, guid: 085b0e66eeabc164fb26d87fbb117bbe, type: 2}
+    - {fileID: 21300000, guid: c219c1d3f3da19f48b99c4532ba8715e, type: 2}
+    - {fileID: 21300000, guid: a73b3f7360247e148acc96d71d3dcc47, type: 2}
+    - {fileID: 21300000, guid: f2ebfd325f21f744d92507f49d6a73a1, type: 2}
+    - {fileID: 21300000, guid: a8530d1811afee94a8f6c37baaae5299, type: 2}
+    - {fileID: 21300000, guid: a8c12e5f12842ca4ab862c36500b02fc, type: 2}
+    - {fileID: 21300000, guid: c9a5500654f153648af6f8a5d3000dc7, type: 2}
+    - {fileID: 21300000, guid: 5e4b27983e35d02418d72f454ff21b75, type: 2}
+    - {fileID: 21300000, guid: 67b7906ab85d7a04086dcae8022a0568, type: 2}
+    - {fileID: 21300000, guid: 03724eb0f8c17cd40a20cbd94d36afdc, type: 2}
+    - {fileID: 21300000, guid: 6674bddfc8423844494ff9bc81fd91fd, type: 2}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.95
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: 0.41666666
+    functionName: ThrowArrow
+    data:
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
