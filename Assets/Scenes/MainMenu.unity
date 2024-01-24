@@ -1165,6 +1165,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0de19e79409354248b85410d5cbdeeff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  loading_panel: {fileID: 0}
+  main_panel: {fileID: 0}
+  main_menu_continue: {fileID: 0}
+  main_menu_text: []
+  main_menu_texts_back: []
+  lvl_phrase: 
 --- !u!1 &972769136
 GameObject:
   m_ObjectHideFlags: 0
